@@ -20,7 +20,12 @@ A transformação que a tese aponta, na sua forma mais concreta: **da escala glo
 
 ## A identidade em camadas
 
-A ressignificação de quem somos acontece por camadas de reconhecimento: corpo, mente, espírito/alma (a parte imaterial do indivíduo), e depois espécie, planeta/Gaia, cosmos. Você já chegou a sete camadas numa meditação anterior que precisa reler. O número fica em aberto. O que está fixo é o movimento: do indivíduo material até o coletivo cósmico imaterial.
+A ressignificação de quem somos se move em **dois eixos distintos**, que vinham fundidos e a transcrição *As primeiras teses* ajudou a separar:
+
+- **Profundidade do indivíduo — "o que eu sou".** Uma escada de expansão de consciência sobre si mesmo: sou só o meu corpo (sem noção de que há mente) → corpo e mente → corpo, mente e espírito → além do espírito, sou uma consciência → e, no fundo, sou minha [[atencao]] (o [[observador]]). É um aprofundamento para dentro.
+- **Alcance do reconhecimento — "até onde eu me reconheço".** Uma escada de abrangência: indivíduo → espécie → planeta/Gaia → cosmos. É uma abertura para fora, até o coletivo cósmico imaterial.
+
+Você já chegou a sete camadas numa meditação anterior que precisa reler; o número total fica em aberto, e parte da releitura é justamente decidir como os dois eixos se cruzam. O que está fixo é a direção: do material e individual para o imaterial — seja mergulhando no indivíduo, seja expandindo até o cosmos.
 
 ## A estrutura "une-e-supera"
 

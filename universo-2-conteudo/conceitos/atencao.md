@@ -1,7 +1,7 @@
 ---
 tipo: conceito
 titulo: Atencao
-origem: (transcricao ainda nao registrada)
+origem: transcricao 2026-06-26-as-primeiras-teses-crencas-e-quem-sou-eu
 criado: 2026-06-26
 atualizado: 2026-06-26
 ---
@@ -16,10 +16,11 @@ se constitui nessa escolha contínua.
 
 ## Origem
 
-Conceito-semente, ainda sem transcrição de origem registrada. Quando a transcrição que deu
-origem a esta acepção for arquivada em `/transcricoes/`, atualizar o campo `origem` no
-frontmatter.
+Acepção extraída da transcrição *As primeiras teses — crenças e quem sou eu* (2026-06-26),
+onde aparece como a primeira base: "a única coisa que eu tenho controle é aonde eu coloco a
+minha atenção". É também o ponto em que estamos "sendo atacados mais forte do que nunca".
 
 ## Conceitos vizinhos
 
-- [[observador]] — quem dirige a atenção.
+- [[observador]] — quem dirige a atenção; a atenção é o seu único gesto.
+- [[fluir]] — onde a atenção deixa de ser reativa e passa a ser propositiva. *(a registrar)*
