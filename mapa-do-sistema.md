@@ -31,15 +31,21 @@ Dentro do Universo 2, o conhecimento sobe em camadas, e cada camada se liga à a
 - **Conceitos** são *definidos* — cada um é a minha acepção de uma palavra.
 - **Argumentos** *linkam Conceitos* — afirmam algo sustentado por premissas.
 - **Teses** *linkam Argumentos* — apostas maiores que reúnem vários argumentos.
+- **Problemas-abertos** são as *lacunas de pesquisa que tensionam tudo* — as perguntas
+  ainda sem resposta que pressionam conceitos, argumentos e teses a evoluir.
 - **Sínteses** *empacotam Teses para fora* — artigos, falas, qualquer entrega ao mundo.
 
 A direção é sempre de baixo para cima: nada vira tese antes de existir como argumento, nada
-vira argumento antes de existir como conceito.
+vira argumento antes de existir como conceito. Os problemas-abertos atravessam essas camadas
+de fora, mantendo-as sob tensão.
 
 ## Decisões adiadas
 
 Aqui registramos o que deixamos deliberadamente para refinar depois, para não cair em
 superengenharia.
 
-- Argumentos, Teses e Sínteses existem no desenho mas só serão preenchidos quando o
-  primeiro caso real aparecer.
+- Argumentos e Teses existem no desenho mas só serão preenchidos quando o primeiro caso
+  real aparecer.
+- Sínteses passou a começar preenchida (a primeira síntese, núcleo-da-tese, chegou antes
+  dos conceitos atômicos — a atomização será feita com o tempo, extraindo conceitos da
+  síntese).
