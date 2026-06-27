@@ -17,9 +17,9 @@ estratégica amadurecer (ver abaixo) e começar a povoar o Universo 2 com concei
 
 ## Decisão central em aberto
 
-Qual recorte de tese mirar academicamente: filosófica, técnica, ou técnica-como-aplicação
-da filosófica. Esta é a peça que destrava todo o Universo 1 — detalhada em
-[[foco-academico]].
+A moldura por nível já se desenhou — eixo filosófico no doutorado, eixo técnico no mestrado
+(a "técnica como aplicação da filosófica"). O que segue em aberto: qual frente técnica vira o
+recorte do mestrado, e quanto o mestrado se amarra ao doutorado. Detalhada em [[foco-academico]].
 
 ## Próximo passo por frente
 
