@@ -14,11 +14,9 @@ arquivo é uma unidade de significado, versionado por Git e lido no Obsidian.
 
 ## A regra de ligação no Universo 2
 
-- **Conceitos** são essências definidas — cada um é a minha acepção de uma palavra.
-- **Argumentos** linkam Conceitos.
-- **Teses** linkam Argumentos.
-- **Problemas-abertos** são as lacunas de pesquisa que tensionam tudo.
-- **Sínteses** empacotam para fora — artigos, falas, entregas ao mundo.
+As camadas se ligam de baixo para cima (Conceitos → Argumentos → Teses), com problemas-abertos
+tensionando e sínteses empacotando para fora. A regra completa e explicada está em
+[`mapa-do-sistema.md`](mapa-do-sistema.md).
 
 ## Por onde começar
 
