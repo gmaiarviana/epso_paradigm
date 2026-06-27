@@ -10,6 +10,15 @@ alteração, você deixa as mudanças prontas para revisão, descreve em uma fra
 alterado e propõe uma mensagem de commit para eu usar. A gravação no histórico é sempre uma
 decisão minha, feita por mim. Eu sou o único portão humano do registro.
 
+Ao propor o commit, entregue dentro de um bloco de código, pronto para eu copiar e colar, os
+comandos completos: um `git add` para **cada arquivo específico** que mudou (nunca `git add .`,
+para termos precisão sobre o que entra no commit) seguido do `git commit -m`. Ex.:
+
+```
+git add transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md
+git commit -m "transcricoes: adiciona transcricao bruta de 2026-06-26"
+```
+
 ## Sobre o formato dos arquivos
 
 Todo conteúdo é Markdown puro. Uma unidade de significado por arquivo — uma essência por
