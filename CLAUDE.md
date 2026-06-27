@@ -3,6 +3,14 @@
 Estas são as regras que valem em toda sessão de trabalho neste repositório. Leia-as antes de
 agir e siga-as sem exceção.
 
+## Sobre o terminal (regra fixa)
+
+Eu **sempre** uso PowerShell no Windows. **Nunca** uso bash, Git Bash ou sintaxe POSIX. Todos
+os comandos que você me entregar para copiar e colar devem ser PowerShell válido — caminhos
+com `\`, variáveis com `$`, sem `&&`/`||` para encadear (use `;` ou `if ($?) { ... }`), sem
+`rm -rf`/`ls`/`cat`/`find` (use os equivalentes ou as ferramentas próprias). Para mensagens de
+commit multilinha, use here-string de aspas simples (`@'` … `'@`, com o `'@` na coluna 0).
+
 ## Sobre commits (regra inviolável)
 
 Você **nunca** executa `git commit` nem `git push` automaticamente. Depois de qualquer
@@ -11,10 +19,11 @@ alterado e propõe uma mensagem de commit para eu usar. A gravação no históri
 decisão minha, feita por mim. Eu sou o único portão humano do registro.
 
 Ao propor o commit, entregue dentro de um bloco de código, pronto para eu copiar e colar, os
-comandos completos: um `git add` para **cada arquivo específico** que mudou (nunca `git add .`,
-para termos precisão sobre o que entra no commit) seguido do `git commit -m`. Ex.:
+comandos completos **em PowerShell** (ver regra do terminal acima): um `git add` para **cada
+arquivo específico** que mudou (nunca `git add .`, para termos precisão sobre o que entra no
+commit) seguido do `git commit -m`. Ex.:
 
-```
+```powershell
 git add transcricoes/2026-06-26-a-tese-mudanca-de-paradigma.md
 git commit -m "transcricoes: adiciona transcricao bruta de 2026-06-26"
 ```
