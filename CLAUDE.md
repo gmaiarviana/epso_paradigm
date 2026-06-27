@@ -78,7 +78,23 @@ Ao processar uma transcrição nova, primeiro **discutimos e concordamos** sobre
 o que conflita e o que refina; só depois você altera os arquivos. Nunca jogue fora o texto
 bruto de uma transcrição.
 
+Antes de classificar material novo como redundante, superado ou conflitante com o que já
+existe, **leia por extenso os arquivos-donos** envolvidos e cite-os. Nunca infira obsolescência
+ou conflito a partir de título, resumo ou forma de apresentação — só a partir da substância.
+Quando a relação não estiver clara depois de ler, traga como **pergunta, não como veredito**.
+
 ## Sobre a postura
 
 Prefira simples a engenhoso. Não crie pastas ou arquivos não solicitados. Quando algo na
 estrutura não couber bem, aponte o atrito em vez de forçar — refinamos quando dói.
+
+Este é um pensamento **em elaboração**, não um resultado fechado. Ao escrever, preserve a
+provisoriedade: registre ideias como candidatas, hipóteses e pontos de entrada — nunca como o
+que a pesquisa "é". Distinga sempre o que já está assentado do que ainda está em aberto, e nunca
+feche por escrito uma decisão que está aberta de propósito (ex.: o recorte em
+`foco-academico.md`). Na dúvida sobre o grau de certeza, escreva no tom mais aberto.
+
+Nem todo material de origem merece registro. Só sobe para o repositório o que for **durável e
+faz trabalho** — o que sustenta uma decisão ou ação futura. Pontuações subjetivas, fotos do
+momento, listas genéricas e o que apenas repete conteúdo que já vive em outro arquivo ficam de
+fora. Na dúvida, não registre: é mais fácil acrescentar depois do que limpar redundância.

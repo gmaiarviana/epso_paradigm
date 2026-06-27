@@ -56,3 +56,9 @@ prática: acompanhar a literatura viva pelos termos de busca abaixo (donos aqui)
 `Indigenous Knowledge Systems AI`, `Traditional Ecological Knowledge machine learning`,
 `Indigenous data sovereignty`, `low-resource language NLP`, `semantic convergence LLM`,
 `semantic label drift cross-cultural`.
+
+Termos da aposta técnica (essências como unidade de representação — a tese técnica de
+[[foco-academico]]):
+
+`semantic embeddings`, `concept representation`, `cross-lingual semantics`, `knowledge graphs`,
+`neurosymbolic AI`, `computational philosophy`, `argument mining`, `discourse analysis`.

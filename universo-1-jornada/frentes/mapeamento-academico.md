@@ -71,12 +71,41 @@ convergência entre tradições com palavras diferentes já tem instrumento téc
 poderia aplicar essa medição a um corpus de textos espirituais/filosóficos de tradições distintas
 — testando empiricamente sua hipótese de que há mais convergência do que divergência.
 
+## Onde procurar — instituições e orientadores
+
+O campo não é só literatura: é gente e grupos. Pontos de entrada para verificar, não lista
+fechada.
+
+### Áreas que o material sugere
+
+O guia de onde isto saiu aponta para o cruzamento de: Processamento de Linguagem Natural (NLP),
+Representação de Conhecimento, IA neurossimbólica (simbólica + conexionista), Filosofia da
+Linguagem Computacional e Ciência Cognitiva Computacional. São pistas de onde procurar, não uma
+definição do que a pesquisa é — qual recorte de fato vira a tese segue em aberto em
+[[foco-academico]].
+
+### Perfil de orientador (sugestão a confirmar)
+
+Se o recorte caminhar para a aposta técnica, o perfil sugerido é quem trabalhe na interseção
+**NLP + Representação de Conhecimento**.
+
+- **Buscar** — interessados em semântica profunda; grupos de IA neurossimbólica; pessoas abertas
+  a propostas que misturam filosofia e técnica.
+- **Evitar** — orientadores puramente de engenharia de software (o problema é mais profundo) e
+  os que só fazem fine-tuning de modelos existentes.
+
+### Instituições (pontos de entrada)
+
+- **Brasil** — USP (grupos de NLP e IA), UNICAMP (IC), UFMG, PUC-Rio, UFRGS.
+- **Internacional** — Stanford (NLP), MIT (CSAIL), CMU (Language Technologies), Edinburgh (NLP),
+  Amsterdam (ILLC — lógica + linguagem).
+
 ## Itens em aberto
 
 - **Decidir qual frente vira o recorte do mestrado** (A ou B) — depende do amadurecimento em
   [[foco-academico]].
-- **Verificar os pontos de entrada** (nomes, grupos, papers acima) — são portas de entrada, não
-  conclusões fechadas.
+- **Verificar os pontos de entrada** (nomes, grupos, papers, instituições e orientadores acima)
+  — são portas de entrada, não conclusões fechadas.
 - **Frente A — encarar a crítica de apropriação/homogeneização** e tratar a soberania de dados
   indígenas como questão ética organizadora, não como detalhe.
 - **Sobre a ordem das coisas:** você quer encontrar métodos que convergem com a tese. O caminho
